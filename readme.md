@@ -1,6 +1,6 @@
 
 
-##How to use
+#How to use
 create virtual host called seedco.local or any of your choice
 point it to root/public of directory
 
