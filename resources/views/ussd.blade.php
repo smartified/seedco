@@ -1,0 +1,1 @@
+&TransId={{$request->TransId}}&RequestType={{$requestType}}&MSISDN={{$request->MSISDN}}&AppId={{$request->AppId}}&USSDString={{$ussd}}
